@@ -2,11 +2,11 @@
 
 <p>
   <a href="https://www.linkedin.com/in/abijithraja/" style="text-decoration: none; display: inline-block; line-height: 0;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="display: block;" />
   </a>
   &nbsp;
   <a href="mailto:abijithrajab@gmail.com" style="text-decoration: none; display: inline-block; line-height: 0;">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" style="display: block;" />
   </a>
 </p>
 
@@ -24,49 +24,33 @@
 
 <p>
   <b>AI/ML (Python)</b><br/>
-  <a href="https://www.python.org/" style="text-decoration: none; display: inline-block; line-height: 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="22" style="vertical-align: middle;" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="22" />
 </p>
 
 <p>
   <b>NVIDIA / GPU Infrastructure</b><br/>
-  <a href="https://www.nvidia.com/" style="text-decoration: none; display: inline-block; line-height: 0;">
-    <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" height="22" style="vertical-align: middle;" />
-  </a>
+  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" height="22" />
 </p>
 
 <p>
   <b>Cloud (AWS, Azure)</b><br/>
-  <a href="https://aws.amazon.com/" style="text-decoration: none; display: inline-block; line-height: 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="22" style="vertical-align: middle;" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="22" />
   &nbsp;
-  <a href="https://azure.microsoft.com/" style="text-decoration: none; display: inline-block; line-height: 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="22" style="vertical-align: middle;" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="22" />
 </p>
 
 <p>
   <b>Containers (Docker, Kubernetes)</b><br/>
-  <a href="https://www.docker.com/" style="text-decoration: none; display: inline-block; line-height: 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="22" style="vertical-align: middle;" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="22" />
   &nbsp;
-  <a href="https://kubernetes.io/" style="text-decoration: none; display: inline-block; line-height: 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="22" style="vertical-align: middle;" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="22" />
 </p>
 
 <p>
   <b>Game Development (Unity, Ubisoft)</b><br/>
-  <a href="https://unity.com/" style="text-decoration: none; display: inline-block; line-height: 0;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="22" style="vertical-align: middle;" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="22" />
   &nbsp;
-  <a href="https://www.ubisoft.com/" style="text-decoration: none; display: inline-block; line-height: 0;">
-    <img src="https://img.shields.io/badge/Ubisoft-000000?style=flat-square&logo=ubisoft&logoColor=white" height="22" style="vertical-align: middle;" />
-  </a>
+  <img src="https://img.shields.io/badge/Ubisoft-000000?style=flat-square&logo=ubisoft&logoColor=white" height="22" />
 </p>
 
 <p>
