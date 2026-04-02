@@ -1,14 +1,14 @@
-# Abijith Raja
+# Abijith Raja B
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abijithraja/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abijithrajab@gmail.com)
 
-Hey, I'm Abi — a developer focused on **AI/ML**, **AI infrastructure**, and **cloud technologies**.
+Hey, I'm Abi a developer focused on **AI/ML**, **AI infrastructure**, and **cloud technologies**.
 Interested in building scalable systems, securing cloud environments, and exploring intelligent architectures.
 Also into game development because building should be fun too.
 
-I'm always open to collaborating on projects or exchanging ideas—feel free to reach out!
+I'm always open to collaborating on projects or exchanging ideas feel free to reach out!
 
 ---
 
