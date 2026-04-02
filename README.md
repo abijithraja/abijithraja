@@ -1,41 +1,69 @@
 <h1 align="center">Abijith Raja</h1>
 
 <p align="center">
-  <a href="mailto:abijithrajab@gmail.com">Gmail</a> ·
-  <a href="https://www.linkedin.com/in/abijithraja/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/abijithraja/" title="LinkedIn">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abijithrajab@gmail.com" title="Email">
+    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  Developer focused on AI/ML, AI infrastructure, and cloud technologies. Interested in scalable systems, cloud security, and intelligent architectures. Also into Unity game development.
+  Hey, I'm Abi a developer focused on <b>AI/ML</b>, <b>AI infrastructure</b>, and <b>cloud technologies</b>.<br/>
+  Interested in building scalable systems, securing cloud environments, and exploring intelligent architectures.<br/>
+  Also into <b>Unity</b> game development — because building should be fun too.
 </p>
 
 ---
 
-## Interests (quick)
-<p align="center">
-  <a href="https://www.python.org/" title="Python">
-    <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26" />
-  </a>
-  <a href="https://www.nvidia.com/" title="NVIDIA">
-    <img alt="NVIDIA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nvidia/nvidia-original.svg" height="26" />
-  </a>
-  <a href="https://aws.amazon.com/" title="AWS">
-    <img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="26" />
-  </a>
-  <a href="https://azure.microsoft.com/" title="Microsoft Azure">
-    <img alt="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="26" />
-  </a>
-  <a href="https://www.docker.com/" title="Docker">
-    <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="26" />
-  </a>
-  <a href="https://kubernetes.io/" title="Kubernetes">
-    <img alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="26" />
-  </a>
-  <a href="https://unity.com/" title="Unity">
-    <img alt="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="26" />
-  </a>
-</p>
+## Areas of interest
+
+<table>
+  <tr>
+    <td>
+      <b>AI/ML (Python)</b><br/>
+      <a href="https://www.python.org/" title="Python">
+        <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26" />
+      </a>
+    </td>
+    <td>
+      <b>NVIDIA / GPU Infra</b><br/>
+      <a href="https://www.nvidia.com/" title="NVIDIA">
+        <img alt="NVIDIA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nvidia/nvidia-original.svg" height="26" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Cloud (AWS, Azure)</b><br/>
+      <a href="https://aws.amazon.com/" title="AWS">
+        <img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="26" />
+      </a>
+      <a href="https://azure.microsoft.com/" title="Microsoft Azure">
+        <img alt="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="26" />
+      </a>
+    </td>
+    <td>
+      <b>Containers (Docker, Kubernetes)</b><br/>
+      <a href="https://www.docker.com/" title="Docker">
+        <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="26" />
+      </a>
+      <a href="https://kubernetes.io/" title="Kubernetes">
+        <img alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="26" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <b>Game Development (Unity)</b><br/>
+      <a href="https://unity.com/" title="Unity">
+        <img alt="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="26" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <sub>Learning • Experimenting • Shipping</sub>
+  <sub>Currently learning • Experimenting • Shipping projects</sub>
 </p>
