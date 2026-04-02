@@ -27,7 +27,7 @@
   <li>
     <b>NVIDIA / GPU Infrastructure</b><br/>
     <a href="https://www.nvidia.com/" title="NVIDIA">
-      <img alt="NVIDIA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nvidia/nvidia-original.svg" height="22" />
+      <img alt="NVIDIA" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nvidia.svg" height="22" />
     </a>
   </li>
   <li>
