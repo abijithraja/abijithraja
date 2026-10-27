@@ -24,9 +24,9 @@ I'm always open to collaborating on projects or exchanging ideas feel free to re
 
 **Cloud (AWS, Azure)**
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="22" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="22" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" height="22" />
+ 
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" height="22" />
 
 **Containers (Docker, Kubernetes)**
 <br/>
